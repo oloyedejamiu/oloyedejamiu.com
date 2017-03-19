@@ -1,0 +1,91 @@
+
+
+body {
+  font-family: Helvetica;
+  padding: 2em;
+  background-color: white;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h1#proficient {  
+  text-align: center;
+  
+}
+
+.skillset {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+
+}
+
+.skill-html {
+  background-color: #FA5858;
+}
+
+.skill-js {
+  background-color: #F5D0A9;
+}
+
+.skill-jquery {
+  background-color: #2E64FE;
+}
+
+.skill-php {
+  background-color: #8904B1;
+}
+
+
+.skill-wordpress {
+  background-color: #8892BF;
+}
+
+.skill-html,
+.skill-js,
+.skill-jquery,
+.skill-php,
+.skill-wordpress {
+  width: `100%;
+  padding: 1em 3em 2em 2em;
+  margin: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  position: relative;
+  top: 0px; 
+
+}
+
+.projects-button {
+  padding: 0.75em 1.25em;
+  background-color: whitesmoke;
+  opacity: 0.9;
+  width: 10em;
+  color: black;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.projects {
+  margin: 1em 0;
+}
+
+.active {
+  background-color: #333333;
+  color: whitesmoke;
+}
+
+a {
+	color: white;	
+}
+
+a:hover {
+	color: red;
+}
