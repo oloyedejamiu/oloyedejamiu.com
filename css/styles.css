@@ -82,7 +82,19 @@ a:hover {
 }
 
 
-img.resize{
-    width:300px; /* you can use % */
-    height: auto;
+img.rescale{
+     width: auto; 
+     height: auto;
+     max-width: 300px;
+     max-height: 240px;
+}
+
+.tags {
+  color: #888; 
+  font-size: 13px; 
+}
+
+.padding-rows {
+  margin-top: 110px;
+  margin-bottom: 10px;
 }
