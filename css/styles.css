@@ -80,3 +80,9 @@ a {
 a:hover {
 	color: red;
 }
+
+
+img.resize{
+    width:300px; /* you can use % */
+    height: auto;
+}
