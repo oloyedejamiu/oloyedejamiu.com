@@ -74,7 +74,7 @@ ul {
 }
 
 a {
-	color: white;	
+	color: #007ee5;
 }
 
 a:hover {
@@ -94,3 +94,64 @@ img.rescale{
   font-size: 13px; 
 }
 
+
+.abtpage{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.abtpadding{
+    padding-bottom: 25px;   
+    
+}
+
+
+.social-links {
+    text-align:center;
+}
+
+.social-links a{
+    display: inline-block;
+    width:50px;
+    height: 50px;
+    border: 2px solid white;
+    border-radius: 50px;
+    margin-right: 15px;
+
+}
+.social-links a i{
+    padding: 18px 11px;
+    font-size: 20px;
+    color: white;
+}
+
+.social-links a:hover{
+    background-color: white;   
+}
+
+.social-links a:hover i{
+    color: #007ee5;
+}
+
+.apply-white {
+    color: white;
+  }
+
+#purple-link {
+    color:#722872; 
+  }
+
+  .purplecolor {
+    background-color: #007ee5;
+}
+
+.mycopywright {
+    color: white;
+    padding-top:25px;
+    padding-bottom: 25px;
+}
+
+
+.acolor{
+    background-color: #AAAAAA;
+}
